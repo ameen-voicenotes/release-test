@@ -3,12 +3,12 @@
     <channel>
         <title>Voicenotes</title>
         <item>
-            <title>1.8</title>
-            <pubDate>Thu, 19 Mar 2026 15:57:53 +0530</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.8</sparkle:shortVersionString>
+            <title>1.9</title>
+            <pubDate>Thu, 19 Mar 2026 16:24:32 +0530</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ameen-voicenotes/release-test/releases/download/beta/Voicenotes.1.8.dmg" length="17367306" type="application/octet-stream" sparkle:edSignature="Yk+x2niNeJh5i9oSqtoTBVvc7uaV6qQKN3La84grDLlrskeR2ZQXX8YtCy6PiIvTFXvuWbYbxRcW12+fOws9DA=="/>
+            <enclosure url="https://github.com/ameen-voicenotes/release-test/releases/download/beta/Voicenotes.1.9.dmg" length="17370866" type="application/octet-stream" sparkle:edSignature="korEw5j0KaKUfsU/CGpmnKdDTc/lPeuJWOEYKXYN3xDu5HU/xOpqdwqDg6eZ+BZPoNjw1WMG2CMbO5LITXpCCA=="/>
         </item>
     </channel>
 </rss>
