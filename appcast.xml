@@ -5,8 +5,8 @@
         <item>
             <title>1.20</title>
             <pubDate>Mon, 23 Mar 2026 13:36:08 +0530</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.20</sparkle:shortVersionString>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.21</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/ameen-voicenotes/release-test/releases/download/beta/Voicenotes.1.20.dmg" length="17392308" type="application/octet-stream" sparkle:edSignature="ORMoJ89BUqxSvmnnobDHbWItBN8dmI3Sfo8CoXW9g+AdJTr0fPQEIP4EpORqDH3SdSzpY2zr6Vf9jWjjVmBaCg=="/>
         </item>
