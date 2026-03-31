@@ -4,11 +4,11 @@
         <title>Voicenotes</title>
         <item>
             <title>1.27</title>
-            <pubDate>Tue, 31 Mar 2026 17:30:06 +0530</pubDate>
-            <sparkle:version>26</sparkle:version>
+            <pubDate>Tue, 31 Mar 2026 18:03:52 +0530</pubDate>
+            <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>1.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ameen-voicenotes/release-test/releases/download/beta/Voicenotes.1.27.dmg" length="21236431" type="application/octet-stream" sparkle:edSignature="BPDBmgyxxNV0z4zt8Gql6Z4u0IDMfcXM4U1yuoWclsYBnKILsvAANR065UUT8sTelszH2P+m3Ohj4EmhngSdAQ=="/>
+            <enclosure url="https://github.com/ameen-voicenotes/release-test/releases/download/beta/Voicenotes.1.27.dmg" length="21237228" type="application/octet-stream" sparkle:edSignature="Q30NwL/Ni52vpux/Twh8PPsAQl+8iRSRof7DaACCOjpFxKHzMPwDj4/E841aWkiRQ4h1Pag78ayAhY+pSjU+CQ=="/>
         </item>
     </channel>
 </rss>
