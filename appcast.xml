@@ -3,12 +3,12 @@
     <channel>
         <title>Voicenotes</title>
         <item>
-            <title>1.33</title>
-            <pubDate>Tue, 07 Apr 2026 17:36:15 +0530</pubDate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>1.33</sparkle:shortVersionString>
+            <title>1.34</title>
+            <pubDate>Wed, 08 Apr 2026 17:54:13 +0530</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.34</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ameen-voicenotes/release-test/releases/download/beta/Voicenotes.1.33.dmg" length="21382439" type="application/octet-stream" sparkle:edSignature="wpX2LVXgNNf8n8my4WEEMQ4uuiFsSb/0drBhunZ9RRqPdkNI7gGP1XmsjZoAuAUPN7woUK2h5vY23B1/l3FEDA=="/>
+            <enclosure url="https://github.com/ameen-voicenotes/release-test/releases/download/beta/Voicenotes.1.34.dmg" length="21509601" type="application/octet-stream" sparkle:edSignature="MZ8rUgg2i8ZbumRSYVkb6+GcpFh3/97XT6eTBVz2y3BxkSCuhUeD7p+7HaC/dVZk8uri5N/OKICRbY6nyjobCQ=="/>
         </item>
     </channel>
 </rss>
