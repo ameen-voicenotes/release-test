@@ -3,12 +3,12 @@
     <channel>
         <title>Voicenotes</title>
         <item>
-            <title>1.70</title>
-            <pubDate>Tue, 26 May 2026 14:47:38 +0530</pubDate>
-            <sparkle:version>71</sparkle:version>
-            <sparkle:shortVersionString>1.70</sparkle:shortVersionString>
+            <title>2.0.2</title>
+            <pubDate>Mon, 01 Jun 2026 18:47:47 +0530</pubDate>
+            <sparkle:version>79</sparkle:version>
+            <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ameen-voicenotes/release-test/releases/download/beta/Voicenotes.1.70.dmg" length="27036713" type="application/octet-stream" sparkle:edSignature="kz1ishiuj7SHsIXWXPHYyva4q2yfMgEr/1FGuhLKtbb2WaPpnM6lG/jfW1ogGW2KMi9Fr+MT2AYJiS72GE/BBg=="/>
+            <enclosure url="https://dl.voicenotes.com/release/v2/v2.0.2/Voicenotes-v2.0.2.dmg" length="28275247" type="application/octet-stream" sparkle:edSignature="3l/aTdfBHlAJaYxY3X6+p+ElEEwkbsYEnVOg0DzqE+2QquRlZhVjtVyl4aAYRKQK8KBKCAosEISrDlLj1SM0Ag=="/>
         </item>
     </channel>
 </rss>
